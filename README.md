@@ -21,3 +21,6 @@ git remote add origin https://github.com/amitkoshti78/git_hub_test.git
 git branch -M main
 
 git push -u origin main
+
+To download the remote files to local PC
+git pull origin main
